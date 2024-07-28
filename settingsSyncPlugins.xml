@@ -19,6 +19,11 @@
             </PluginData>
           </value>
         </entry>
+        <entry key="com.intellij.spring.batch">
+          <value>
+            <PluginData />
+          </value>
+        </entry>
         <entry key="com.jetbrains.php">
           <value>
             <PluginData>
